@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<channel>
+<title>ehh</title>
+<link></link>
+<language>es</language>
+<itunes:subtitle></itunes:subtitle>
+<itunes:author>egioegh</itunes:author>
+<itunes:summary>hgrwiohgweg</itunes:summary>
+<description>hgrwiohgweg</description>
+<itunes:type>serial</itunes:type>
+<itunes:owner>
+<itunes:name>egioegh</itunes:name>
+<itunes:email>gjoehwogh@eg.cine</itunes:email>
+</itunes:owner>
+<itunes:image href="https://yaint.netlify.com/gary.png"/>
+<itunes:category text="Comedy">
+</itunes:category>
+<itunes:category text="Kids &amp; Family">
+</itunes:category>
+<itunes:explicit>yes</itunes:explicit>
+
+<!--Add new episodes here-->
+</channel>
+</rss>
