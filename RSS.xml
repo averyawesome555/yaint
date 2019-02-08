@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<channel>
+<title>wegehwgoi</title>
+<link></link>
+<language>es</language>
+<itunes:subtitle></itunes:subtitle>
+<itunes:author>egeio</itunes:author>
+<itunes:summary>eioghweog</itunes:summary>
+<description>eioghweog</description>
+<itunes:type>serial</itunes:type>
+<itunes:owner>
+<itunes:name>egeio</itunes:name>
+<itunes:email>gewiohgheoighqe</itunes:email>
+</itunes:owner>
+<itunes:image href="https://yaint.netlify.com/gary.png"/>
+<itunes:category text="Arts" />
+<itunes:category text="Business" />
+<itunes:category text="Comedy" />
+<itunes:explicit>no</itunes:explicit>
+
+<item>
+<itunes:episodeType>full</itunes:episodeType>
+<itunes:title>hgiqeug</itunes:title>
+<itunes:episode>5</itunes:episode>
+<itunes:season>4</itunes:season>
+<title>hgiqeug</title>
+<itunes:author>egeio</itunes:author>
+<itunes:subtitle>qeiugiqehgoiweg</itunes:subtitle>
+<itunes:summary>qeiugiqehgoiweg</itunes:summary>
+<description>qeiugiqehgoiweg</description>
+<content:encoded>qeiugiqehgoiweg</content:encoded>
+<enclosure length="14748491" type="audio/mpeg" url="https://yaint.netlify.com/S1E2-snapchatJunkieMom.mp3"/>
+<guid>https://yaint.netlify.com/S1E2-snapchatJunkieMom.mp3</guid>
+<pubDate>Thu, Feb 07 20:56:15 +0000</pubDate>
+<itunes:duration>10:11</itunes:duration>
+<itunes:explicit>no</itunes:explicit>
+</item>
+
+<!--Add new episodes here-->
+</channel>
+</rss>
