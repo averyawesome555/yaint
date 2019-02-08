@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<channel>
+<title>test</title>
+<link></link>
+<language>es</language>
+<itunes:subtitle></itunes:subtitle>
+<itunes:author>me</itunes:author>
+<itunes:summary>egiwehgoweg</itunes:summary>
+<description>egiwehgoweg</description>
+<itunes:type>serial</itunes:type>
+<itunes:owner>
+<itunes:name>me</itunes:name>
+<itunes:email>hoihoie@giengio.efnk</itunes:email>
+</itunes:owner>
+<itunes:image href="https://enfoiqeofiwf.netlify.com/gary.png"/>
+<itunes:category text="Comedy>
+</itunes:category>
+<itunes:category text="Education>
+</itunes:category>
+<itunes:category text="Games &amp; Hobbies>
+</itunes:category>
+<itunes:explicit>no</itunes:explicit>
+
+<item>
+<itunes:episodeType>full</itunes:episodeType>
+<itunes:title>ihwifhg</itunes:title>
+<itunes:episode>2</itunes:episode>
+<itunes:season>1</itunes:season>
+<title>ihwifhg</title>
+<itunes:author>me</itunes:author>
+<itunes:subtitle>moksha</itunes:subtitle>
+<itunes:summary>moksha</itunes:summary>
+<description>moksha</description>
+<content:encoded>moksha</content:encoded>
+<enclosure length="14748491" type="audio/mpeg" url="https://enfoiqeofiwf.netlify.com/S1E2-snapchatJunkieMom.mp3"/>
+<guid>https://enfoiqeofiwf.netlify.com/S1E2-snapchatJunkieMom.mp3</guid>
+<pubDate>Thu, Feb 07 20:47:15 +0000</pubDate>
+<itunes:duration>10:11</itunes:duration>
+<itunes:explicit>no</itunes:explicit>
+</item>
+
+<!--Add new episodes here-->
+</channel>
+</rss>
